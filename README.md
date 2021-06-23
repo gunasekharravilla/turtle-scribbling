@@ -1,5 +1,5 @@
 # `turtledraw`
-Simple experiment: redrawing an arbitrary image using turtle graphics. Implemented in Fall 2016 in order to get students excited about Scheme recursive art. The idea was that I'd take a picture of the class and then let the turtle draw it (with my screen projected, so everyone could watch) over the course of the period.
+Simple experiment: redrawing an arbitrary image using turtle graphics. Implemented in Fall 2020 in order to get students excited about Scheme recursive art. The idea was that I'd take a picture of the class and then let the turtle draw it (with my screen projected, so everyone could watch) over the course of the period.
 
 Of course, it was never necessary to involve Scheme. In the interest of the general, non-Scheming population, I've added a version of the code that uses Python only. This is currently the standard version.
 
